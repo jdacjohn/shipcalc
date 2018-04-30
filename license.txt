@@ -1,0 +1,13 @@
+/*
+ * ${project.displayName}
+ * ${name}
+ *
+ * Description - Enter a description of the file and its purpose.
+ *
+ * Author:      ${user}
+ * Link:           ${link}
+ *
+ * Created:             ${date} ${time}
+ * Last Updated:    Date 
+ * Copyright            ${copyright}
+ */

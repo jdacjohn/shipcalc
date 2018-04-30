@@ -1,0 +1,25 @@
+{
+    "name": "jdac/shipcalc",
+    "description": "Automotive Shipping Cost Caclulator",
+    "type": "project",
+    "extra": {
+        "config.fxp-asset.installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^2.4",
+        "twbs/bootstrap": "^4.1",
+        "rohnstock/pickadate": "^3.5",
+        "fyii/geocomplete": "^1.0",
+        "gregwar/image": "2.*"
+    },
+    "authors": [
+        {
+            "name": "jdacjohn",
+            "email": "35569814+jdacjohn@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
